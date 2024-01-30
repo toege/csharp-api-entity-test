@@ -69,10 +69,9 @@ Create a new appsettings.json / appsettings.Development.json (see appsettings.Ex
 }
 ```
 
-## Install Nugets
+## Install Nugets (these have all been installed to the WebApi)
 
 - Install the following packages into the WebApi project:
-- 
 - Install-Package Microsoft.EntityFrameworkCore
 - Install-Package Microsoft.EntityFrameworkCore.Tools
 - Install-Package Microsoft.EntityFrameworkCore.Design
